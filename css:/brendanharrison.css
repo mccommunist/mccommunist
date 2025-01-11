@@ -1,0 +1,305 @@
+   #canvas {
+   	      max-width: 900px;
+   	      margin: 10px auto;
+          padding: 75px;
+
+}   
+
+   body#work {
+     
+          background-color: #ffffff;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          width:100%;
+          height:100%;
+          margin: 0;
+          padding: 0;
+          
+   }
+
+   body#about {
+     
+          background-color: #ffffff;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          width:100%;
+          height:100%;
+          margin: 0;
+          padding: 0;
+          
+   }
+
+   body#contact {
+     
+          background-color: #ffffff;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          width:100%;
+          height:100%;
+          margin: 0;
+          padding: 0;
+          
+   }
+
+   body#work a#worknav{
+           color:#4A4A4A
+          
+   }
+
+   body#about a#aboutnav{
+           color:#4A4A4A
+          
+   }
+
+   body#contact a#contactnav{
+           color:#4A4A4A
+          
+   }
+
+    header   {
+          width: 100%;
+          height:100px;
+	  
+	}
+
+   div.headertext  {
+          float:left;
+	      width:75%;
+	      height:100%;
+
+   }
+
+   div.headernav {
+   	      margin:  0;
+   	      padding: 0;
+   	      overflow:hidden;
+   	      display:inline-block;
+   	      text-align:left;
+   	      float:left;
+   	      width:25%;
+   	      height:100%;
+   	      vertical-align:bottom;
+   }
+
+   li.topnav  {
+          list-style: none;
+          display:inline-block;
+          float:left;
+          margin:0px;
+          padding:8px;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	      font-size:20px;
+	      color:#8C8C8C;
+
+
+   }
+
+
+   li.topnav a:link  {
+          text-decoration: none;
+          color:#8C8C8C;
+
+   }
+
+      li.topnav a:visited  {
+          text-decoration: none;
+          color:#8C8C8C;
+
+   }
+
+      li.topnav a:hover  {
+          text-decoration: none;
+          color:#8C8C8C;
+
+   }
+
+         li.topnav a:active  {
+          color: #4A4A4A;
+
+   }
+
+   div.leftnav  {
+   	      list-style-type: none;
+   	      margin:  0;
+   	      padding: 0;
+   	      width:10%;
+   	      height:100%;
+   	      vertical-align:bottom;
+
+
+   }
+
+   
+
+   h1  {
+	      font-weight:bold;
+          font-size: 48px;
+          line-height:64px;
+          margin:0;
+          color: #4A4A4A;
+
+
+	}
+	
+	h2  {
+	      font-size:24px;
+	      line-height: 24px;
+          margin:0;
+	      color:#8C8C8C;
+	}
+
+	h3  {
+	      font-size:36px;
+	      line-height: 36px;
+          margin:0;
+	      color:#4A4A4A;
+	      text-align:center;
+	}
+
+	h4  {
+	      font-size:24px;
+	      line-height: 24px;
+          margin:10px;
+	      color:#4A4A4A;
+	}
+
+  h5  {
+        font-size:18px;
+        line-height: 18px;
+          margin:10px;
+        color:#4A4A4A;
+  }
+
+
+    p   {
+	      font-size:16px;
+	      color:#4A4A4A;
+	      margin-left:10px;
+    }
+
+    section.work  {
+          margin:0;
+	      width:100%;
+	      height:100%;
+
+    }
+
+    div.work  {
+        margin-top:16px;
+        width:100%;
+        height:100%;
+
+    }
+
+        section.about  {
+          float:left;
+          margin:0;
+	      width:100%;
+	      height:100%;
+
+    }
+
+    div.example  {
+    	  
+          float:left;
+          margin:16px;
+          padding:4px;
+    	  background-color: #efefef;
+          border: 1px solid #dbdbdb;
+          width: 45%;
+          text-align:center;
+    }
+
+    div.jumboimage  {
+    	  
+          margin:16px \;
+          padding:4px;
+    	    width: 88%;
+          height: 100%
+    }
+
+    div.contactme {
+          float:left;
+          margin:16px 0px 0px 0px;
+	      width:100%;
+	      height:100%;
+	      background-color: #D1D1D1;
+	}
+
+    div#contact {
+    	max-width: 88%;
+    	margin:10px;
+    	float: none;
+    }
+
+    form.contact {
+          float:left;
+	      max-width: 800px;
+	      width:100%;
+	      height:100%;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          display:block;
+
+    }
+    
+    label.name {
+	      width:100%;
+	      height:100%;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          text-align:left;
+    }
+    
+    label.email {
+	      width:100%;
+	      height:100%;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          text-align:left;
+    }
+
+    label.phonenumber {
+	      width:100%;
+	      height:100%;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          text-align:left;
+    }
+
+    label.message {
+	      width:100%;
+	      height:100%;
+          font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+          font-size:16px;
+          text-align:left;
+    }
+
+    input#name  {
+    	  float:left;
+    	  width:88%;
+    }
+
+    input#email  {
+ 	  	  float:left;
+      	  width:88%;
+
+    }
+
+    input#phonenumber  {
+    	float:left;
+    	width:88%;
+
+    }
+
+    textarea#message  {
+    	float:left;
+    	width:88%;
+
+    }
+
+    input#send  {
+    	float:left;
+    	margin: 10px;
+
+    }
